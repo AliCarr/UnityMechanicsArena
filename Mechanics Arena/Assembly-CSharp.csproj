@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Hoverboard.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>G:/Github/UnityMechanicsArena/Mechanics Arena/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
